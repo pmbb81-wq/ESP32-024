@@ -55,9 +55,9 @@ I correct legs and....viola! Success :)
 
 ![Alt text](https://s5947.chomikuj.pl/ChomikImage.aspx?e=lF67a_IHWePsIzyzHT8mpPsxAGnPvQWkPKyqY3VNC6KK7LIwWiHJvwLOVeztr-DVnZ_ervOioQElrTWETt2rU8EtmKmfIC300VDUHMEOjUs&pv=2)
 
+Time to upload yoradio from github! And all works perfect :)
 
-
-
+![Alt text](https://s9473.chomikuj.pl/ChomikImage.aspx?e=R3cg-ol0wQ_Z0y-_N3Zlj6AJKNc6qcms4U3ikRU2Jnv3wmI1ZNHjPZw-8pZh-TDbkttMBKkx-t51Lo1hSrRBYlQ_8zgsrPn3_pb3TEeFzMU&pv=2)
 
 
 
