@@ -34,3 +34,40 @@ Firmware dump original is here (4MB):
 
 https://chomikuj.pl/kris0725/ESP32/ESP32-024+CYD/Firmware/cyd+zolty+4mb+flash_0x0,10609081745.bin
 
+Secure LCD before uninstall flash chip :)
+![Alt text](https://s9517.chomikuj.pl/ChomikImage.aspx?e=M6Omb70ZTFlKmPdg11TmwRqIhzpkfnBdkG1HxuyjTKpmtq9xJPP6iMmKKgTgHIBvA-bULtk05k3PjTUuSuznZeOG1yMxOqr1Pwj4U6LZUXo&pv=2)
+
+
+Still working :)
+![Alt text](https://s9605.chomikuj.pl/ChomikImage.aspx?e=3M3a4UMEKcOVQmQ1eAnEKU7PSh1Rv1ORZGQ_1Sxk0CiEHS2AM4iuhn5QWub4TRyD_iPOBn2uZ8PXmplHjP8dedaDkvn0A0vxkZUIsH1pi_A&pv=2)
+
+Time to remove flash chip from mod esp32 with 16MB flash chip:)
+
+![Alt text](https://s9496.chomikuj.pl/ChomikImage.aspx?e=8mZW0vXE-ZF0auk2KIjBdRpEOsNty49H-Z-yqDIHlbljiT8yYvMm5xMh5ajS7vhBV8X-UoFmHTBLnfTrTD0pZd2NneFX0TNnLY4zW9UgeUg&pv=2)
+
+And now connect to ESP Connect and what is showing?
+
+UPS...somethings is wrong!!! This is not correct flash ID!
+
+![Alt text](https://s9590.chomikuj.pl/ChomikImage.aspx?e=tBlXKE1kT0GLhmxGtT3w5S0vK0-pbnJpwhTIh3gQttOlKs-DWEsrAOjyzWpZLCrTi6y7dFdDMOUTf46JQBw29_BNLbaYK6gZmm9oUzF97LE&pv=2)
+
+I correct legs and....viola! Success :)
+
+![Alt text](https://s5947.chomikuj.pl/ChomikImage.aspx?e=lF67a_IHWePsIzyzHT8mpPsxAGnPvQWkPKyqY3VNC6KK7LIwWiHJvwLOVeztr-DVnZ_ervOioQElrTWETt2rU8EtmKmfIC300VDUHMEOjUs&pv=2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
