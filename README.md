@@ -63,12 +63,18 @@ Time to upload yoradio from github! And all works perfect :)
 Now is like this:
 ![2026-03-16_20 13 53](https://github.com/user-attachments/assets/0725dae2-1ec0-4b8c-8afa-bf654970d297)
 
-Audio is internal :) I like it 8 bit sounds :) 
+Audio is internal :) I like it 8 bit sounds :)  Speaker 1W from? I dont know :D
 
 ![2026-03-16_20 15 30](https://github.com/user-attachments/assets/e3c55f78-29f6-4486-a6a3-42fd45782d07)
 
 
+<h1 align="center">📋 USEFUL LINKS</h1>
 
+CYD ESP32-2432S024
+Development Board
+Code name: CYD_ESP32_2432S024
+
+https://www.espboards.dev/esp32/cyd-esp32-2432s024/
 
 
 
