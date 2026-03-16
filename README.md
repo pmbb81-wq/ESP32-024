@@ -70,14 +70,24 @@ Audio is internal :) I like it 8 bit sounds :)  Speaker 1W from? I dont know :D
 
 <h1 align="center">📋 USEFUL LINKS</h1>
 
+---
 CYD ESP32-2432S024
 Development Board
 Code name: CYD_ESP32_2432S024
 
 https://www.espboards.dev/esp32/cyd-esp32-2432s024/
 
+<img width="1935" height="778" alt="obraz" src="https://github.com/user-attachments/assets/55adcb22-a703-458d-a1ff-071e6d1b9811" />
+
+---
+
+<h1 align="center">📋 3D PRINTS</h1>
+
+https://makerworld.com/pl/models/2520826-yoradio-portable-der-frickler-net#profileId-2773184
+Files:
 
 
+<img width="2906" height="1502" alt="obraz" src="https://github.com/user-attachments/assets/69a6dec2-46ea-44fd-9ebe-e8f3b0b097b6" />
 
 
 
