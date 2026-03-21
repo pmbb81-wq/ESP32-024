@@ -123,7 +123,7 @@ https://youtube.com/shorts/Y29b9De6C8g
 
 How to flash?
 
-Use ESP32 flash download tools. Select file and paste 0x10000
+Use ESP32 flash download tools. Select file and paste 0x000 or 0x0
 
 <img width="750" height="671" alt="Zrzut ekranu 2026-03-21 200837" src="https://github.com/user-attachments/assets/94853db2-b9b1-49a8-88fc-9d5974052e46" />
 
