@@ -7,6 +7,7 @@
 <h1 align="center">PHOTOS</h1>
 
 Aliexpress foto
+
 <h1 align="center"><img width="254" height="308" alt="Bez tytułu" src="https://github.com/user-attachments/assets/c97b7fc3-c0b1-45bc-864d-718a4e6849d5" />
 </h1>
 
@@ -90,6 +91,41 @@ Files:
 <img width="2906" height="1502" alt="obraz" src="https://github.com/user-attachments/assets/69a6dec2-46ea-44fd-9ebe-e8f3b0b097b6" />
 
 
+
+---
+
+<h1 align="center">📋 GITHUB yugaja BT-Speaker for ESP32-024 with internal DAC!!!</h1>
+
+---
+
+Original Project is here:
+
+https://github.com/yugaja/BT-speaker/tree/master
+
+In phone...settings bluetooth: (Yoradio-BT (ESP32-024))
+
+![1000029607](https://github.com/user-attachments/assets/7b469d38-8d7c-4ae8-9824-1bd125d22b5b)
+
+Success pairing:
+![1000029608](https://github.com/user-attachments/assets/6ff7e933-8035-495e-9b6c-cbf356c53c61)
+
+
+Now we can listening music from phone on CYD ESP32-024 over internal audio DAC!!!
+
+![2026-03-21_19 59 23](https://github.com/user-attachments/assets/b797caf0-ab73-43a4-afcf-c696e5ebf7e8)
+
+File to flash CYD ESP32-024 is here:
+https://chomikuj.pl/kris0725/ESP32/ESP32-024+CYD/Firmware/BT-SPEAKER+(yugaja)/BT_Speaker_CYD_ESP32-024_0x0,10622619782.bin
+
+Short video what is working:
+
+https://youtube.com/shorts/Y29b9De6C8g
+
+How to flash?
+
+Use ESP32 flash download tools. Select file and paste 0x10000
+
+<img width="750" height="671" alt="Zrzut ekranu 2026-03-21 200837" src="https://github.com/user-attachments/assets/94853db2-b9b1-49a8-88fc-9d5974052e46" />
 
 
 
