@@ -127,6 +127,9 @@ Use ESP32 flash download tools. Select file and paste 0x000 or 0x0
 
 ![Bez tytułu](https://github.com/user-attachments/assets/0e4688ee-44ec-40d0-8bfe-386f85e6f4b5)
 
+Wersja z godzina i informacjami o esp. Widac tez zmiane volume na gornym pasku.
+
+![2026-03-22_19 34 23](https://github.com/user-attachments/assets/bd207ae4-2274-4da9-825c-8acacddace07)
 
 
 
