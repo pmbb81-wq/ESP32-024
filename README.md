@@ -131,7 +131,11 @@ Wersja z godzina i informacjami o esp. Widac tez zmiane volume na gornym pasku.
 
 ![2026-03-22_19 34 23](https://github.com/user-attachments/assets/bd207ae4-2274-4da9-825c-8acacddace07)
 
+---
+
 <h1 align="center">📋 CYD 5" :)</h1>
+
+---
 
 Link do aliexpress:
 
