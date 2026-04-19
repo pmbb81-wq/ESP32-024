@@ -190,6 +190,14 @@ KARTA SD:
 ```
 
 
+Ponizej rozne plytki CYD i ich piny:
+
+<img width="599" height="1098" alt="1776602784585" src="https://github.com/user-attachments/assets/0172891c-b2b5-4cc9-8b8e-4a71273b00b4" />
+
+<img width="631" height="1268" alt="1776602808682" src="https://github.com/user-attachments/assets/3f2a4154-52d5-40af-b6ef-3e742a7f7937" />
+
+<img width="580" height="1166" alt="1776602819850" src="https://github.com/user-attachments/assets/e3d7d29d-7940-403f-a331-3e440aecd569" />
+
 
 
 
