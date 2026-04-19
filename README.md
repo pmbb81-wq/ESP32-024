@@ -98,6 +98,8 @@ Files:
 
 ---
 
+Aby ten projekt dzialal z cydem trzeba przerobic kod pod audio wewnetrzne. Na chomiku mam wersje ktora jest zmodyfikowana pod tego cyda.
+
 Original Project is here:
 
 https://github.com/yugaja/BT-speaker/tree/master
