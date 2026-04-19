@@ -149,6 +149,49 @@ Fotki:
 ![Obrazek_2026-03-24 18 13 45](https://github.com/user-attachments/assets/36d68315-246b-44b6-ac96-e70243cef4f2)
 
 
+<h1 align="center">📋 UPDATE 19.04.2026</h1>
+
+Aby sobie skompilowac wlasna wersje pod tego cyda trzeba sciagnac wersje swieza nieruszana z githuba i w pliku myoptions.h skonfigurowac tak jak ponizej:
+
+USTAWIENIA POD MOJ CYD 024...ST7789 i XPT2046.
+
+WYSWIETLACZ LCD:
+
+```C++
+#define L10N_LANGUAGE			RU
+#define DSP_MODEL			DSP_ST7789
+#define DSP_HSPI			true
+#define TFT_DC			2
+#define TFT_CS			15
+#define TFT_RST			-1
+#define BRIGHTNESS_PIN		27
+```
+
+AUDIO WEWNETRZNE!!!:
+
+```C++
+#define I2S_INTERNAL			true
+#define PLAYER_FORCE_MONO		true
+```
+
+DOTYK:
+
+```C++
+#define TS_MODEL			TS_MODEL_XPT2046
+#define TS_HSPI			true
+#define TS_CS			33
+#define TS_IRQ			36
+```
+
+KARTA SD:
+
+```C++
+#define SDC_CS			5
+```
+
+
+
+
 
 
 
